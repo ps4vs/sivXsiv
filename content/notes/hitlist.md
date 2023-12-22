@@ -2,6 +2,7 @@
 title: hitlist
 tags:
   - seed
+date:
 ---
 ![robotics](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVtbmV4ajVyYzBsNjNybmZ3M21lcTh0bTB0MHdnZmVibWx3eW15ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TJyHZPUF4jNZRpbWkK/source.gif)
 ###  Reading
