@@ -1,5 +1,5 @@
 ---
-title: "{{title}}"
+title: research
 date: "{{date}}"
 tags:
   - seed
