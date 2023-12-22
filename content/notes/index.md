@@ -1,6 +1,5 @@
 ---
 title: Notes
-tags: 
-date:
+tags:
 ---
 All my notes live here

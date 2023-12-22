@@ -1,6 +1,5 @@
 ---
 title: 
-date: "{{data}}"
 tags:
   - seed
 enableToc: false

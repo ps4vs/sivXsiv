@@ -1,6 +1,5 @@
 ---
 title: research
-date: "{{date}}"
 tags:
   - seed
 enableToc: false

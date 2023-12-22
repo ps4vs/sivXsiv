@@ -1,6 +1,5 @@
 ---
 title: anySTOCKnow
-date: "{{date}}"
 tags:
   - seed
 enableToc: false
