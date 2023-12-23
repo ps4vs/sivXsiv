@@ -1,5 +1,5 @@
 ---
-title: epitomes
+title: Epitomes
 tags:
   - seed
 ---

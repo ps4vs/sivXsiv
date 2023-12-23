@@ -1,5 +1,5 @@
 ---
-title: 
+title: Books
 tags:
   - seed
 enableToc: false

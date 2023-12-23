@@ -1,5 +1,5 @@
 ---
-title: 
+title: Web Development
 tags:
   - seed
 enableToc: false

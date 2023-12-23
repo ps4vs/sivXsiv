@@ -1,5 +1,5 @@
 ---
-title: 
+title: Courses
 tags:
   - seed
 enableToc: false

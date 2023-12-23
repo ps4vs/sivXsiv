@@ -1,5 +1,5 @@
 ---
-title: hitlist
+title: Hitlist
 tags:
   - seed
 ---
