@@ -1,7 +1,7 @@
 ---
 title: "RL: Alpha"
 tags:
-  - seed
+  - sapling
 enableToc: false
 ---
 ### Introduction
@@ -35,8 +35,4 @@ Key insights include:
 3. **Challenge with Random Play**: Learning efficiency drops significantly against a randomly moving opponent due to limited informative feedback.
 4. **Learning Through Self-Play**: When the RL agent plays Tic-Tac-Toe against itself, it experiences a unique learning environment. Since both players (first and second) are the same agent, they update value functions of different sets of states based on their position in the game.
 
-
-
-
-
-
+More detailed/rough notes can be found [here](https://github.com/ps4vs/Deep-RL/tree/main/Chapter-1).
