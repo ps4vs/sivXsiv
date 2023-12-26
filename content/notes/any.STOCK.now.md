@@ -1,5 +1,5 @@
 ---
-title: anySTOCKnow
+title: any.STOCK.now
 tags:
   - seed
 enableToc: false
