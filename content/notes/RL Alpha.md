@@ -5,6 +5,7 @@ tags:
 enableToc: false
 ---
 ### Introduction
+
 Reinforcement Learning (RL) is a computational approach uniquely focused on goal-directed agents interacting with an uncertain environment, ie, more towards AGI. It is **"learning from interaction"** featuring "trail and error" and "delayed reward".
 
 The four main subelements of RL are the Policy, Reward Signal, Value Function, and Model:
@@ -13,15 +14,19 @@ The four main subelements of RL are the Policy, Reward Signal, Value Function, a
 - **Value Function**: A measure of long-term success.
 - **Model**: The agent's internal representation of the environment, aiding in planning and predicting future outcomes.
 ### **Flip!!!** 
+
 According to [Reinforcement Learning, Fast and Slow](https://www.cell.com/action/showPdf?pii=S1364-6613%2819%2930061-0), Machine Learning methods are ***sample inefficient*** for given reasons and factors
+
 1. **Incremental parameter adjustment**
 	- The adjustments made during learning must be small, in order to maximize generalization and avoid overwriting the effects of earlier learning
 2. **Weak inductive bias**
 	- According to learning theory every learning procedure necessarily faces bias-variance tradeoff. 
 	- Generic neural networks are extremely low-bias learning systems, ie, they will be able to master a wider range of patterns (higher variance) but will in general be less sample-efficient.
+
 Furthermore, RL's ***sample inefficiency*** is exacerbated as the agent must self-determine labels (i.e., actions leading to higher rewards) through environmental interaction, unlike in supervised learning where labeled data is readily available.
 
 ### Tic Tac Toe Case Study
+
 In a practical application, I used RL to train an agent to play Tic-Tac-Toe using the Temporal Difference Method. [The code for RL agent learning to play Tic-Tac-Toe using Temporal Difference Method.](https://github.com/ps4vs/Deep-RL/blob/main/Chapter-1/TicTacToe.ipynb)
 
 Key insights include:
