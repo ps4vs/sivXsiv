@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning: Alpha"
+title: "RL: Alpha"
 tags:
   - seed
 enableToc: false

@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning
+title: RL
 tags:
   - seed
 enableToc: false
