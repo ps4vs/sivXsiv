@@ -3,7 +3,7 @@ title: ME and MY not so DUMB BRAIN!
 tags: []
 ---
 ![not-me ](one-more-step.png)
-I'm [Siv](./siv) and here is where you can find my notes on [learn], [create], and [research]—mostly pertaining to AI and a little bit of CS—and, secondarily, to [alettertomyself](alettertomyself.md)
+I'm [siv](./siv), and here is where you can find my notes on [learn], [create], and [research]—mostly pertaining to AI and a little bit of CS—and, secondarily, to [alettertomyself](alettertomyself.md)
 
 [All notes](./notes) are in one of the three stages:
 * [Seed](./tags/seed): brief ideas

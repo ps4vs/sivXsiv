@@ -28,7 +28,14 @@ some of the notes, blogs, projects that I look up to.
 
 ### Repositories
 - [OpenDILab - RL, MultiModality, AGI, Diffusion](https://github.com/opendilab)
+- [Awesome-AI-Everything](https://github.com/ZhiningLiu1998/awesome-machine-learning-resources)
 
+### Videos
+- [NeurIPS Videos](https://slideslive.com/neurips)
+
+### ML Implementations
+- https://neptune.ai/blog/author/aayushbajaj
+	- Blogs related to setting up experimentation, versioning, and organising.
 
 
 
