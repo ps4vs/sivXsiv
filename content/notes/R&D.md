@@ -14,3 +14,4 @@ enableToc: false
 	- how to setup database, 
 	- how supabase comes into picture,
 	- different types of databases, and embeddings etc
+- understanding google-cloud-sdk
