@@ -1,7 +1,7 @@
 ---
 title: W2V-BERT
 tags:
-  - sapling
+  - paper-review
 enableToc: false
 ---
 ## W2V-BERT [Contrastive Learning + MLM]

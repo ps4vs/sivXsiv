@@ -18,6 +18,7 @@ My notes/code/projects related to Reinforcement Learning
 * [[W2V-BERT |Notes on W2V-BERT]] 
 	* w2v-BERT is a framework that combines contrastive learning and MLM, where the former trains the model to discretise input continuous speech signals into a finite set of discriminative speech tokens, and the latter trains the model to learn contextualised speech representations via solving a masked prediction task consuming the discretised tokens.
 * [[AudioMAE |Notes on AudioMAE]]
+* [[PolyGrad |Notes on PolyGrad]]
 
 
 

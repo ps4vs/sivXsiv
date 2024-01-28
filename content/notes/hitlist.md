@@ -28,6 +28,8 @@ tags:
 	- This can be implemented on AlexNet where grouped convolution was first used
 	- Wav2Vec 2.0 also uses grouped convolution.
 - Inspiration from multiple cooperative agents to grouped convolution tasks or convolutions filters in general.
+- add LNN, and neuralODE to hugging-face
+- add learned optimizer to huggingface
 
 
 
