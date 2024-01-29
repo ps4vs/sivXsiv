@@ -2,6 +2,7 @@
 title: alettertomyself
 tags:
   - seed
+date: "{{date}}"
 ---
 
 ### **Dear Me,**
