@@ -15,6 +15,8 @@ I'm [siv](./siv), and here is where you can find my notes on [learn], [create], 
 [Why you (yes, you) should blog](https://medium.com/@racheltho/why-you-yes-you-should-blog-7d2544ac1045)
 ["advice" for aspiring tech bloggers](https://jvns.ca/blog/2016/05/22/how-do-you-write-blog-posts/)
 
+Thank you!
+
 
 
 
