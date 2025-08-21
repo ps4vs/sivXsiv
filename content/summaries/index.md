@@ -1,5 +1,5 @@
 ---
-title: Mathematics
+title: Summaries
 tags: 
 date: "{{date}}"
 ---
