@@ -268,7 +268,4 @@ plt.show()
 ```
 ![[Pasted image 20250821232645.png]]
 ![[Pasted image 20250821232654.png]]
-
->[!note] think why learned_optimizer training simple in jax, compared to pytorch to fully internalise the concepts.
-
-While pytorch computation graph is automatically generated, but in jax you can define which parts you want for your computation graph.
+  
