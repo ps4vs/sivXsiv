@@ -65,7 +65,12 @@ key once used will be destroyed, but here test_l and split are getting same key,
 `tree_map(lambda p, g: p - 0.1*g, params, grads))` will be replaced with optimizer api's
 
 - No standard interface for optimizers in JAX
-- optax is kindof standard optimization library, learned_optimization adds additional inputs to optimizer therefore Optimizers Interface difference in Optax vs Learned_optimization? 
+- optax is kindof standard optimization library, learned_optimization adds additional inputs to optimizer therefore Optimizers Interface difference in Optax vs Learned_optimization? Few points to understand interface difference b/w optax and learned_optimization.
+	- Both define stateless optimizers
+	- both opt.init take params, and return opt_state, each opt_state is different structure.
+		- opt_state in learned_optimization has params, model_state, **opt_state(momentum, etc)** and iteration.
+		- while opt_state in optax has **opt_state (momentum, etc)**, also present above, since general optimizers are independent of parameters.
+	- while opt.update takes (opt_state, grads, loss) in learned_optimization returns opt_state which will have updated_params, the optax's opt.update takes (grads, opt_state) returns (update, opt_state), these updates need to be applied on params using optax.apply_updates(updates, params), returns next_params/updated_params.
 - optimizer object creation using `opt = opt_base.SGD(1e-4)`
 - **opt.init**; `opt_state = opt.init(params)`returns opt_state which contains params, model_state (model stats) and additional optimizer state such as momentum etc.
 - **opt.update**; `next_opt_state = opt.update(opt_state, fake_grads, fake_loss)`
@@ -268,4 +273,3 @@ plt.show()
 ```
 ![[Pasted image 20250821232645.png]]
 ![[Pasted image 20250821232654.png]]
-  

@@ -141,5 +141,3 @@ In practice, many linear equations are solved indirectly, by either stationary i
 
 
 
-
-
